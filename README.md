@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋! I'm Dylan, a Swift developer from South Carolina.
 
-<!--
-**DylanMcD8/DylanMcD8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am the developer of a few apps, such as [School Assistant](sunapps.org/sa). My profile may look empty, but that's just cause most of my repos are private.
 
-Here are some ideas to get you started:
+Need to reach me? Send me an [email!](mailto:sunapps@dlmconsulting.org)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![Dylans's Stats](https://github-readme-stats.vercel.app/api?username=DylanMcD8&show_icons=true&count_private=true&theme=dark)
+
+[![Twitter Followers](https://img.shields.io/twitter/follow/DylanMcD8?label=Followers&style=social)](https://twitter.com/DylanMcD8) 
+
+[![GitHub followers](https://img.shields.io/github/followers/DylanMcD8?label=Followers&style=social)](https://github.com/DylanMcD8/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DylanMcD8" alt="DylanMcD8" /> </p>
