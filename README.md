@@ -1,4 +1,4 @@
-### Hey there 👋🏻!  I'm Dylan, a Swift developer from South Carolina.
+# Hey there 👋🏻!  I'm Dylan, a Swift developer from South Carolina.
 
 I am the developer of a few apps, such as [School Assistant](sunapps.org/sa). My profile may look bare, but that's just because most of my repos are private. You can see more about my projects at my website, [sunapps.org](https://sunapps.org).
 
