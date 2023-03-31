@@ -1,8 +1,8 @@
 # Hey there 👋🏻!  I'm Dylan, a Swift developer from New York.
 
-### I am the developer of a few apps, such as [School Assistant](sunapps.org/sa). My profile may look kinda empty, but that's just because many of my repos are private. You can see more about my projects at my website, [sunapps.org](https://sunapps.org).
+### I am the developer of a few apps, such as [School Assistant](sunapps.org/sa). My profile may look kinda empty, but that's just because many of my repos are private. You can see more about my company at its website, [sunapps.org](https://sunapps.org). Or, you can learn more about me and see see my personal projects at my website, [dylanmcd.com](https://dylanmcd.com).
 
-Need to reach me? Send me an [email!](mailto:dylan@sunapps.org)
+Need to reach me? Send me an [email!](mailto:dylan@dylanmcd.com) Need to reach me for Sun Apps reasons? Use the [support email](mailto:support@sunapps.org).
 
 
 
