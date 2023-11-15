@@ -1,4 +1,5 @@
-[]()# Hey there 👋🏻!  I'm Dylan, a Swift developer from New York.
+[]()
+# Hey there 👋🏻!  I'm Dylan, a Swift developer from New York.
 
 ### I am the developer of a few apps, such as [School Assistant](https://sunapps.org/sa). My profile may look kinda empty, but that's just because many of my repos are private. You can see more about my company at its website, [sunapps.org](https://sunapps.org). Or, you can learn more about me and see see my personal projects at my website, [https://www.dylanmcd.com](https://dylanmcd.com).
 
